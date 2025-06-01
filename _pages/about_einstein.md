@@ -1,4 +1,6 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I’m Saagara, an aspiring AI researcher and engineer with a background in Applied Electronics and Instrumentation Engineering. Formerly an Applications Engineer at Oracle, I’m now focused on building deep expertise in artificial intelligence, with the long-term goal of contributing to the development of AGI (Artificial General Intelligence).
+I’m currently re-entering the field after a career break, immersing myself in AI research, hands-on projects, and advanced learning. This site is my digital workspace—where I document my journey, share insights, publish literature reviews, and reflect on the evolving landscape of AI.
+Whether you’re here to read about machine learning fundamentals, explore thought pieces on AGI, or follow along as I build and experiment with intelligent systems, I’m glad you’re here.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
