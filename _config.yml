@@ -630,12 +630,12 @@ jekyll_get_json:
 
 jsonresume:
   - basics
-  - work
+  - experience
   - education
   - publications
   - projects
   - volunteer
-  - awards
+  - achievements
   - certificates
   - skills
   - languages
